@@ -1,4 +1,4 @@
-![Architecture](architecture/soc-lab-architecture.png)
+![Architecture](architecture.drawio.png)
 # Architecture
 
 Network topology and laboratory structure.
