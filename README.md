@@ -51,6 +51,7 @@ This laboratory was built using:
 ---
 
 # Dashboard Overview
+![Dashboard](screenshots/dashboard_segundo.png)
 
 The dashboard includes:
 
