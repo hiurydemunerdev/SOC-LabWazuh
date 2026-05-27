@@ -12,7 +12,7 @@ Blue Team SOC laboratory focused on threat detection, incident response and atta
 
 # Laboratory Architecture
 
-![Architecture](architecture.drawio.png)
+![Architecture](architecture/architecture.drawio.png)
 
 This laboratory was built using:
 
