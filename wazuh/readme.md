@@ -1,3 +1,9 @@
 # Wazuh
 
-Wazuh rules, configurations and SIEM setup.
+This directory contains:
+
+- Wazuh configurations
+- Custom rules
+- Detection engineering artifacts
+- SIEM integration files
+- Threat detection logic
