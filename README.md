@@ -1,3 +1,9 @@
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-orange)
+![Kali](https://img.shields.io/badge/Kali-Linux-blue)
+![SOC](https://img.shields.io/badge/Blue-Team-blue)
+![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-red)
+![Status](https://img.shields.io/badge/Status-Active-success)
 # SOC-Lab-Wazuh
 
 Blue Team SOC laboratory focused on threat detection, incident response and attack simulation using Wazuh SIEM.
